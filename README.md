@@ -785,11 +785,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer:** Your Name
+**Project Maintainer:** Yadnyesh Mulay
 
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: yadnyeshmulay@gmail.com
+- GitHub: [@Myadnyesh](https://github.com/yourusername)
+- LinkedIn: [Yadnyesh Mulay](https://linkedin.com/in/yadnyesh-mulay)
 
 ---
 
