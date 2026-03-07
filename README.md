@@ -789,7 +789,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Email: yadnyeshmulay@gmail.com
 - GitHub: [@Myadnyesh](https://github.com/yourusername)
-- LinkedIn: [Yadnyesh Mulay](https://linkedin.com/in/yadnyesh-mulay)
+- LinkedIn: [Yadnyesh Mulay](https://linkedin.com/in/yadnyesh-mulay/)
 
 ---
 
