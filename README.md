@@ -797,15 +797,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### **Planned Features**
 
-- [ ] Multi-language support (non-English sentiment)
 - [ ] Advanced ML models (BERT, GPT-based sentiment)
-- [ ] Real-time monitoring dashboard
-- [ ] Email notifications for sentiment alerts
 - [ ] Custom sentiment dictionaries
-- [ ] Slack integration
-- [ ] Microsoft Teams integration
 - [ ] Date range filtering (implementation)
-- [ ] Export to PowerPoint
 - [ ] API endpoint (REST API)
 
 ### **Version History**
