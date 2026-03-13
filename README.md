@@ -788,7 +788,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Project Maintainer:** Yadnyesh Mulay
 
 - Email: yadnyeshmulay@gmail.com
-- GitHub: [@MYadnyesh](https://github.com/yourusername)
+- GitHub: [@MYadnyesh](https://github.com/MYadnyesh)
 - LinkedIn: [Yadnyesh Mulay](https://linkedin.com/in/yadnyesh-mulay/)
 
 ---
